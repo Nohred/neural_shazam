@@ -1,0 +1,4 @@
+data/processed/
+data/dataset.csv
+*__pycache__*
+logs
