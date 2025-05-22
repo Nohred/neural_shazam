@@ -12,7 +12,7 @@ class AudioPredictor:
         self.FORMAT = pyaudio.paFloat32
         self.CHANNELS = 1
         self.RATE = 22050
-        self.RECORD_SECONDS = 5
+        self.RECORD_SECONDS = 10
         
         # Initialize PyAudio
         self.p = pyaudio.PyAudio()

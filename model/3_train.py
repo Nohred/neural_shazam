@@ -12,8 +12,11 @@ def load_and_prepare_data(dataset_path="data/dataset.csv"):
     print("Loading dataset...")
     df = pd.read_csv(dataset_path)
     
+    # Get sample weights if they exist
+    sample_weights = df['sample_weight'].values if 'sample_weight' in df.columns else None
+    
     # Separate features and labels
-    X = df.drop('song_name', axis=1).values
+    X = df.drop(['song_name', 'sample_weight'] if 'sample_weight' in df.columns else ['song_name'], axis=1).values
     y = df['song_name'].values
     
     # Reshape features back to 3D (samples, mel_bands, time_steps)
@@ -32,11 +35,24 @@ def load_and_prepare_data(dataset_path="data/dataset.csv"):
     y_encoded = label_encoder.fit_transform(y)
     
     # Split the data
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded, shuffle=True
-    )
+    if sample_weights is not None:
+        X_train, X_test, y_train, y_test, w_train, w_test = train_test_split(
+            X, y_encoded, sample_weights, 
+            test_size=0.2,  
+            stratify=y_encoded,
+            shuffle=True
+        )
+    else:
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y_encoded, 
+            test_size=0.2,  
+            stratify=y_encoded,
+            shuffle=True
+        )
+        w_train, w_test = None, None
     
-    return X_train, X_test, y_train, y_test, label_encoder
+    return X_train, X_test, y_train, y_test, w_train, w_test, label_encoder
+
 
 def train():
     gpus = tf.config.list_physical_devices('GPU')
@@ -46,9 +62,18 @@ def train():
         print("GPU is available for training")
     else:
         print("No GPU found, using CPU")
+    
     # Load and prepare data
-    X_train, X_test, y_train, y_test, label_encoder = load_and_prepare_data()
+    X_train, X_test, y_train, y_test, w_train, w_test, label_encoder = load_and_prepare_data()
     num_classes = len(label_encoder.classes_)
+    print(f"Number of classes: {num_classes}")
+    print(f"Training samples: {X_train.shape[0]}, Test samples: {X_test.shape[0]}")
+    print(f"Input shape: {X_train.shape[1:]}")
+    print(f"Sample weights: {w_train is not None}")
+    print(f"Sample weights shape: {w_train.shape if w_train is not None else 'N/A'}")
+    print(f"Sample weights test shape: {w_test.shape if w_test is not None else 'N/A'}")
+    print(f"Label encoder classes: {label_encoder.classes_}")
+
     
     # Create model
     model = create_model(
@@ -68,12 +93,12 @@ def train():
     callbacks = [
         tf.keras.callbacks.EarlyStopping(
             monitor='val_accuracy',
-            patience=10,
+            patience=15,
             restore_best_weights=True,
             mode='max'
         ),
         tf.keras.callbacks.ModelCheckpoint(
-            'best_model.h5',
+            'model/best_model.h5',
             monitor='val_accuracy',
             save_best_only=True,
             mode='max'
@@ -81,15 +106,15 @@ def train():
         tf.keras.callbacks.ReduceLROnPlateau(
             monitor='val_loss',
             factor=0.2,
-            patience=5,
-            min_lr=1e-6
+            patience=15,
+            min_lr=0.001
         )
     ]
     
     # Train with data augmentation
     data_augmentation = tf.keras.Sequential([
-        tf.keras.layers.RandomTranslation(0.1, 0.1),
-        tf.keras.layers.GaussianNoise(0.1)
+        tf.keras.layers.RandomTranslation(0.05, 0.05),
+        tf.keras.layers.GaussianNoise(0.05)
     ])
     
     # Train model
@@ -97,20 +122,28 @@ def train():
     history = model.fit(
         data_augmentation(X_train, training=True),
         y_train,
-        batch_size=16,  # Smaller batch size
-        epochs=100,     # More epochs
+        sample_weight=w_train,  # Add sample weights
+        batch_size=32,
+        epochs=250,
         validation_split=0.2,
         callbacks=callbacks,
         verbose=1
     )
-    # Evaluate model
+    
+    # Evaluate model with sample weights
     print("\nEvaluating model on test set...")
-    test_loss, test_acc = model.evaluate(X_test, y_test, verbose=0)
+    test_loss, test_acc = model.evaluate(
+        X_test, 
+        y_test, 
+        sample_weight=w_test,
+        verbose=1
+    )
     print(f"Test accuracy: {test_acc:.4f}")
+    print(f"Test loss: {test_loss:.4f}")
     
     # Save model and label encoder
     model.save('model/final_model.h5')
-    np.save('label_encoder.npy', label_encoder.classes_)
+    np.save('model/label_encoder.npy', label_encoder.classes_)
     print("\nModel and label encoder saved")
 
     return history, model, label_encoder
@@ -134,17 +167,17 @@ def predict_song(audio_chunk, model, label_encoder):
 if __name__ == "__main__":
     history, model, label_encoder = train()
     # Plot training history
-    import matplotlib.pyplot as plt
+    # import matplotlib.pyplot as plt
 
-    # Plot accuracy
-    plt.figure(figsize=(12, 4))
-    plt.subplot(1, 2, 1)
-    plt.plot(history.history['accuracy'], label='Training Accuracy')
-    plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
-    plt.title('Model Accuracy')
+    # # Plot accuracy
+    # plt.figure(figsize=(12, 4))
+    # plt.subplot(1, 2, 1)
+    # plt.plot(history.history['accuracy'], label='Training Accuracy')
+    # plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
+    # plt.title('Model Accuracy')
     
-    plt.subplot(1, 2, 2)
-    plt.plot(history.history['loss'], label='Training Loss')
-    plt.plot(history.history['val_loss'], label='Validation Loss') 
+    # plt.subplot(1, 2, 2)
+    # plt.plot(history.history['loss'], label='Training Loss')
+    # plt.plot(history.history['val_loss'], label='Validation Loss') 
     
-    plt.show()
+    # plt.show()

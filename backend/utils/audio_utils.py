@@ -26,7 +26,7 @@ def extract_features(audio_chunk, sr=22050):
     
     return mel_spec_norm
 
-def load_model_and_encoder(model_path='model/final_model.h5', encoder_path='label_encoder.npy'):
+def load_model_and_encoder(model_path='model/best_model.h5', encoder_path='model/label_encoder.npy'):
     """Load the trained model and label encoder."""
     model = tf.keras.models.load_model(model_path)
     label_encoder = np.load(encoder_path, allow_pickle=True)

@@ -16,7 +16,7 @@ def validate_and_process_audio(raw_dir="data/raw", processed_dir="data/processed
     
     # Parameters for processing
     SAMPLE_RATE = 22050
-    DURATION = 5  # seconds per chunk
+    DURATION = 10  # seconds per chunk
     HOP_LENGTH = 512
     N_MELS = 128
     
@@ -72,7 +72,7 @@ def validate_and_process_audio(raw_dir="data/raw", processed_dir="data/processed
         }
     }
     
-    with open(os.path.join(processed_dir, "metadata.json"), "w") as f:
+    with open("data/metadata.json", "w") as f:
         json.dump(metadata, f, indent=2)
 
 if __name__ == "__main__":
