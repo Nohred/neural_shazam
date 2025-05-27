@@ -1,17 +1,27 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <title>Mini Shazam</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Neural Shazam</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <script src="app.js" defer></script>
 </head>
 <body>
-    <h1>Mini Shazam 🎶</h1>
-    <div class="container">
-        <button id="recordButton">🎤 Mantén presionado para grabar</button>
-        <div id="status"></div>
+  <h1>Neural Shazam</h1>
+  <div class="container">
+    <script>
+        console.log("El script sí se cargó correctamente");
+    </script>
+    <button id="toggleButton">▶️ Iniciar reconocimiento</button>
+
+    <div id="results">
+        <div id="status" style="margin-bottom: 10px; font-style: italic;"></div>
+        <img id="cover" src="" alt="Portada" width="300" style="display:none; margin-top: 20px;" />
+        <pre id="top3"></pre>
     </div>
-    <script src="script.js"></script>
+
+
+  </div>
 </body>
 </html>
-
