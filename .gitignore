@@ -1,5 +1,6 @@
 data/processed/
-data/dataset.csv
+data/dataset_lists
 data/raw/
+model/saved_models/
 *__pycache__*
 logs
