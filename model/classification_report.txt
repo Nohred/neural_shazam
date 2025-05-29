@@ -1,0 +1,56 @@
+                                        precision    recall  f1-score   support
+
+                    50_cent_in_da_club       0.53      1.00      0.69         9
+                    abba_dancing_queen       0.50      0.70      0.58        10
+                   ac_dc_back_in_black       0.50      0.30      0.38        10
+             adele_rolling_in_the_deep       0.40      0.20      0.27        10
+        arctic_monkeys_do_i_wanna_know       0.50      0.44      0.47         9
+                         avicii_levels       0.50      0.22      0.31         9
+            bad_bunny_titi_me_pregunto       0.36      0.40      0.38        10
+         banda_ms_el_color_de_tus_ojos       0.25      0.22      0.24         9
+                beethoven_symphony_no5       0.33      0.10      0.15        10
+            bob_marley_no_woman_no_cry       0.86      0.67      0.75         9
+                          bts_dynamite       0.38      0.80      0.52        10
+                  calvin_harris_summer       0.50      0.10      0.17        10
+            christian_nodal_adios_amor       0.36      1.00      0.53        10
+                 daddy_yankee_gasolina       0.47      0.78      0.58         9
+               daft_punk_one_more_time       0.67      0.44      0.53         9
+                dave_brubeck_take_five       0.77      1.00      0.87        10
+                   deadmau5_monophobia       0.86      0.60      0.71        10
+                 debussy_clair_de_lune       1.00      0.43      0.60         7
+                 don_omar_danza_kuduro       0.00      0.00      0.00        10
+                       drake_gods_plan       0.80      0.44      0.57         9
+               dua_lipa_dont_start_now       1.00      0.10      0.18        10
+               ed_sheeran_shape_of_you       0.75      1.00      0.86         9
+                  eminem_lose_yourself       0.36      0.80      0.50        10
+florence_the_machine_dog_days_are_over       0.40      0.20      0.27        10
+       guns_n_roses_sweet_child_o_mine       0.50      0.10      0.17        10
+                     j_balvin_mi_gente       0.48      1.00      0.65        10
+      john_coltrane_my_favorite_things       1.00      0.33      0.50         9
+                          karol_g_tusa       0.40      0.67      0.50         9
+                 kendrick_lamar_humble       0.69      1.00      0.82         9
+  los_tigres_del_norte_la_puerta_negra       0.50      0.89      0.64         9
+louis_armstrong_what_a_wonderful_world       0.00      0.00      0.00        10
+           michael_jackson_billie_jean       1.00      1.00      1.00        10
+                   miles_davis_so_what       1.00      0.70      0.82        10
+         mozart_eine_kleine_nachtmusik       0.24      1.00      0.39        10
+              nina_simone_feeling_good       0.12      0.10      0.11        10
+       nirvana_smells_like_teen_spirit       1.00      0.33      0.50         9
+               pedro_infante_cien_anos       1.00      0.70      0.82        10
+               queen_bohemian_rhapsody       1.00      0.20      0.33        10
+                       radiohead_creep       1.00      0.44      0.62         9
+                     rammstein_du_hast       1.00      0.90      0.95        10
+                 shakira_hips_dont_lie       0.43      1.00      0.61        10
+tame_impala_the_less_i_know_the_better       0.58      0.78      0.67         9
+             taylor_swift_shake_it_off       0.50      0.33      0.40         9
+                 tchaikovsky_swan_lake       1.00      0.12      0.22         8
+                   the_prodigy_breathe       0.80      0.40      0.53        10
+     the_rolling_stones_paint_it_black       1.00      0.70      0.82        10
+                  the_strokes_reptilia       1.00      0.56      0.71         9
+               travis_scott_sicko_mode       0.45      0.56      0.50         9
+              vicente_fernandez_el_rey       0.27      0.40      0.32        10
+           vivaldi_four_seasons_spring       0.33      0.20      0.25        10
+
+                              accuracy                           0.53       476
+                             macro avg       0.61      0.53      0.50       476
+                          weighted avg       0.60      0.53      0.50       476

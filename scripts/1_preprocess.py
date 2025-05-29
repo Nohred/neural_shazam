@@ -4,11 +4,11 @@ import librosa
 from pathlib import Path
 import json
 
-def add_white_noise(y, noise_level=0.01):
+def add_white_noise(y, noise_level=0.05):
     noise = np.random.normal(0, noise_level, size=y.shape)
     return y + noise
 
-def add_pink_noise(y, noise_level=0.01):
+def add_pink_noise(y, noise_level=0.5):
     uneven = y.shape[0] % 2
     X = np.random.randn(y.shape[0] // 2 + 1 + uneven) + 1j * np.random.randn(y.shape[0] // 2 + 1 + uneven)
     S = np.sqrt(np.arange(len(X)) + 1.)
@@ -17,7 +17,7 @@ def add_pink_noise(y, noise_level=0.01):
     y_noise = noise_level * y_noise / np.max(np.abs(y_noise))
     return y + y_noise
 
-def add_pitch_shift(y, sr, steps=2):
+def add_pitch_shift(y, sr, steps=1):
     return librosa.effects.pitch_shift(y, sr=sr, n_steps=steps)
 
 def get_active_chunks(y, sr, chunk_duration=10, top_db=30):
@@ -33,7 +33,7 @@ def get_active_chunks(y, sr, chunk_duration=10, top_db=30):
                 active_chunks.append(chunk)
     return active_chunks
 
-def validate_and_process_audio(raw_dir="data/raw", processed_dir="data/processed", max_chunks_per_song=9):
+def validate_and_process_audio(raw_dir="data/raw", processed_dir="data/processed", max_chunks_per_song=12): ### Ajusta el número máximo de chunks por canción
     os.makedirs(processed_dir, exist_ok=True)
 
     valid_files = []

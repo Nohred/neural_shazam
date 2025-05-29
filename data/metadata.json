@@ -38,7 +38,19 @@
         "daft_punk_one_more_time_chunk_8_clean.npy",
         "daft_punk_one_more_time_chunk_8_white_noise.npy",
         "daft_punk_one_more_time_chunk_8_pink_noise.npy",
-        "daft_punk_one_more_time_chunk_8_pitch_shift.npy"
+        "daft_punk_one_more_time_chunk_8_pitch_shift.npy",
+        "daft_punk_one_more_time_chunk_9_clean.npy",
+        "daft_punk_one_more_time_chunk_9_white_noise.npy",
+        "daft_punk_one_more_time_chunk_9_pink_noise.npy",
+        "daft_punk_one_more_time_chunk_9_pitch_shift.npy",
+        "daft_punk_one_more_time_chunk_10_clean.npy",
+        "daft_punk_one_more_time_chunk_10_white_noise.npy",
+        "daft_punk_one_more_time_chunk_10_pink_noise.npy",
+        "daft_punk_one_more_time_chunk_10_pitch_shift.npy",
+        "daft_punk_one_more_time_chunk_11_clean.npy",
+        "daft_punk_one_more_time_chunk_11_white_noise.npy",
+        "daft_punk_one_more_time_chunk_11_pink_noise.npy",
+        "daft_punk_one_more_time_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -79,7 +91,19 @@
         "vicente_fernandez_el_rey_chunk_8_clean.npy",
         "vicente_fernandez_el_rey_chunk_8_white_noise.npy",
         "vicente_fernandez_el_rey_chunk_8_pink_noise.npy",
-        "vicente_fernandez_el_rey_chunk_8_pitch_shift.npy"
+        "vicente_fernandez_el_rey_chunk_8_pitch_shift.npy",
+        "vicente_fernandez_el_rey_chunk_9_clean.npy",
+        "vicente_fernandez_el_rey_chunk_9_white_noise.npy",
+        "vicente_fernandez_el_rey_chunk_9_pink_noise.npy",
+        "vicente_fernandez_el_rey_chunk_9_pitch_shift.npy",
+        "vicente_fernandez_el_rey_chunk_10_clean.npy",
+        "vicente_fernandez_el_rey_chunk_10_white_noise.npy",
+        "vicente_fernandez_el_rey_chunk_10_pink_noise.npy",
+        "vicente_fernandez_el_rey_chunk_10_pitch_shift.npy",
+        "vicente_fernandez_el_rey_chunk_11_clean.npy",
+        "vicente_fernandez_el_rey_chunk_11_white_noise.npy",
+        "vicente_fernandez_el_rey_chunk_11_pink_noise.npy",
+        "vicente_fernandez_el_rey_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -120,7 +144,19 @@
         "florence_the_machine_dog_days_are_over_chunk_8_clean.npy",
         "florence_the_machine_dog_days_are_over_chunk_8_white_noise.npy",
         "florence_the_machine_dog_days_are_over_chunk_8_pink_noise.npy",
-        "florence_the_machine_dog_days_are_over_chunk_8_pitch_shift.npy"
+        "florence_the_machine_dog_days_are_over_chunk_8_pitch_shift.npy",
+        "florence_the_machine_dog_days_are_over_chunk_9_clean.npy",
+        "florence_the_machine_dog_days_are_over_chunk_9_white_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_9_pink_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_9_pitch_shift.npy",
+        "florence_the_machine_dog_days_are_over_chunk_10_clean.npy",
+        "florence_the_machine_dog_days_are_over_chunk_10_white_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_10_pink_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_10_pitch_shift.npy",
+        "florence_the_machine_dog_days_are_over_chunk_11_clean.npy",
+        "florence_the_machine_dog_days_are_over_chunk_11_white_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_11_pink_noise.npy",
+        "florence_the_machine_dog_days_are_over_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -161,7 +197,19 @@
         "shakira_hips_dont_lie_chunk_8_clean.npy",
         "shakira_hips_dont_lie_chunk_8_white_noise.npy",
         "shakira_hips_dont_lie_chunk_8_pink_noise.npy",
-        "shakira_hips_dont_lie_chunk_8_pitch_shift.npy"
+        "shakira_hips_dont_lie_chunk_8_pitch_shift.npy",
+        "shakira_hips_dont_lie_chunk_9_clean.npy",
+        "shakira_hips_dont_lie_chunk_9_white_noise.npy",
+        "shakira_hips_dont_lie_chunk_9_pink_noise.npy",
+        "shakira_hips_dont_lie_chunk_9_pitch_shift.npy",
+        "shakira_hips_dont_lie_chunk_10_clean.npy",
+        "shakira_hips_dont_lie_chunk_10_white_noise.npy",
+        "shakira_hips_dont_lie_chunk_10_pink_noise.npy",
+        "shakira_hips_dont_lie_chunk_10_pitch_shift.npy",
+        "shakira_hips_dont_lie_chunk_11_clean.npy",
+        "shakira_hips_dont_lie_chunk_11_white_noise.npy",
+        "shakira_hips_dont_lie_chunk_11_pink_noise.npy",
+        "shakira_hips_dont_lie_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -202,7 +250,19 @@
         "radiohead_creep_chunk_8_clean.npy",
         "radiohead_creep_chunk_8_white_noise.npy",
         "radiohead_creep_chunk_8_pink_noise.npy",
-        "radiohead_creep_chunk_8_pitch_shift.npy"
+        "radiohead_creep_chunk_8_pitch_shift.npy",
+        "radiohead_creep_chunk_9_clean.npy",
+        "radiohead_creep_chunk_9_white_noise.npy",
+        "radiohead_creep_chunk_9_pink_noise.npy",
+        "radiohead_creep_chunk_9_pitch_shift.npy",
+        "radiohead_creep_chunk_10_clean.npy",
+        "radiohead_creep_chunk_10_white_noise.npy",
+        "radiohead_creep_chunk_10_pink_noise.npy",
+        "radiohead_creep_chunk_10_pitch_shift.npy",
+        "radiohead_creep_chunk_11_clean.npy",
+        "radiohead_creep_chunk_11_white_noise.npy",
+        "radiohead_creep_chunk_11_pink_noise.npy",
+        "radiohead_creep_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -243,7 +303,19 @@
         "bts_dynamite_chunk_8_clean.npy",
         "bts_dynamite_chunk_8_white_noise.npy",
         "bts_dynamite_chunk_8_pink_noise.npy",
-        "bts_dynamite_chunk_8_pitch_shift.npy"
+        "bts_dynamite_chunk_8_pitch_shift.npy",
+        "bts_dynamite_chunk_9_clean.npy",
+        "bts_dynamite_chunk_9_white_noise.npy",
+        "bts_dynamite_chunk_9_pink_noise.npy",
+        "bts_dynamite_chunk_9_pitch_shift.npy",
+        "bts_dynamite_chunk_10_clean.npy",
+        "bts_dynamite_chunk_10_white_noise.npy",
+        "bts_dynamite_chunk_10_pink_noise.npy",
+        "bts_dynamite_chunk_10_pitch_shift.npy",
+        "bts_dynamite_chunk_11_clean.npy",
+        "bts_dynamite_chunk_11_white_noise.npy",
+        "bts_dynamite_chunk_11_pink_noise.npy",
+        "bts_dynamite_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -284,7 +356,19 @@
         "taylor_swift_shake_it_off_chunk_8_clean.npy",
         "taylor_swift_shake_it_off_chunk_8_white_noise.npy",
         "taylor_swift_shake_it_off_chunk_8_pink_noise.npy",
-        "taylor_swift_shake_it_off_chunk_8_pitch_shift.npy"
+        "taylor_swift_shake_it_off_chunk_8_pitch_shift.npy",
+        "taylor_swift_shake_it_off_chunk_9_clean.npy",
+        "taylor_swift_shake_it_off_chunk_9_white_noise.npy",
+        "taylor_swift_shake_it_off_chunk_9_pink_noise.npy",
+        "taylor_swift_shake_it_off_chunk_9_pitch_shift.npy",
+        "taylor_swift_shake_it_off_chunk_10_clean.npy",
+        "taylor_swift_shake_it_off_chunk_10_white_noise.npy",
+        "taylor_swift_shake_it_off_chunk_10_pink_noise.npy",
+        "taylor_swift_shake_it_off_chunk_10_pitch_shift.npy",
+        "taylor_swift_shake_it_off_chunk_11_clean.npy",
+        "taylor_swift_shake_it_off_chunk_11_white_noise.npy",
+        "taylor_swift_shake_it_off_chunk_11_pink_noise.npy",
+        "taylor_swift_shake_it_off_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -325,7 +409,19 @@
         "los_tigres_del_norte_la_puerta_negra_chunk_8_clean.npy",
         "los_tigres_del_norte_la_puerta_negra_chunk_8_white_noise.npy",
         "los_tigres_del_norte_la_puerta_negra_chunk_8_pink_noise.npy",
-        "los_tigres_del_norte_la_puerta_negra_chunk_8_pitch_shift.npy"
+        "los_tigres_del_norte_la_puerta_negra_chunk_8_pitch_shift.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_9_clean.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_9_white_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_9_pink_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_9_pitch_shift.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_10_clean.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_10_white_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_10_pink_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_10_pitch_shift.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_11_clean.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_11_white_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_11_pink_noise.npy",
+        "los_tigres_del_norte_la_puerta_negra_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -366,7 +462,19 @@
         "louis_armstrong_what_a_wonderful_world_chunk_8_clean.npy",
         "louis_armstrong_what_a_wonderful_world_chunk_8_white_noise.npy",
         "louis_armstrong_what_a_wonderful_world_chunk_8_pink_noise.npy",
-        "louis_armstrong_what_a_wonderful_world_chunk_8_pitch_shift.npy"
+        "louis_armstrong_what_a_wonderful_world_chunk_8_pitch_shift.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_9_clean.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_9_white_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_9_pink_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_9_pitch_shift.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_10_clean.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_10_white_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_10_pink_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_10_pitch_shift.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_11_clean.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_11_white_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_11_pink_noise.npy",
+        "louis_armstrong_what_a_wonderful_world_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -407,7 +515,19 @@
         "michael_jackson_billie_jean_chunk_8_clean.npy",
         "michael_jackson_billie_jean_chunk_8_white_noise.npy",
         "michael_jackson_billie_jean_chunk_8_pink_noise.npy",
-        "michael_jackson_billie_jean_chunk_8_pitch_shift.npy"
+        "michael_jackson_billie_jean_chunk_8_pitch_shift.npy",
+        "michael_jackson_billie_jean_chunk_9_clean.npy",
+        "michael_jackson_billie_jean_chunk_9_white_noise.npy",
+        "michael_jackson_billie_jean_chunk_9_pink_noise.npy",
+        "michael_jackson_billie_jean_chunk_9_pitch_shift.npy",
+        "michael_jackson_billie_jean_chunk_10_clean.npy",
+        "michael_jackson_billie_jean_chunk_10_white_noise.npy",
+        "michael_jackson_billie_jean_chunk_10_pink_noise.npy",
+        "michael_jackson_billie_jean_chunk_10_pitch_shift.npy",
+        "michael_jackson_billie_jean_chunk_11_clean.npy",
+        "michael_jackson_billie_jean_chunk_11_white_noise.npy",
+        "michael_jackson_billie_jean_chunk_11_pink_noise.npy",
+        "michael_jackson_billie_jean_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -448,7 +568,19 @@
         "adele_rolling_in_the_deep_chunk_8_clean.npy",
         "adele_rolling_in_the_deep_chunk_8_white_noise.npy",
         "adele_rolling_in_the_deep_chunk_8_pink_noise.npy",
-        "adele_rolling_in_the_deep_chunk_8_pitch_shift.npy"
+        "adele_rolling_in_the_deep_chunk_8_pitch_shift.npy",
+        "adele_rolling_in_the_deep_chunk_9_clean.npy",
+        "adele_rolling_in_the_deep_chunk_9_white_noise.npy",
+        "adele_rolling_in_the_deep_chunk_9_pink_noise.npy",
+        "adele_rolling_in_the_deep_chunk_9_pitch_shift.npy",
+        "adele_rolling_in_the_deep_chunk_10_clean.npy",
+        "adele_rolling_in_the_deep_chunk_10_white_noise.npy",
+        "adele_rolling_in_the_deep_chunk_10_pink_noise.npy",
+        "adele_rolling_in_the_deep_chunk_10_pitch_shift.npy",
+        "adele_rolling_in_the_deep_chunk_11_clean.npy",
+        "adele_rolling_in_the_deep_chunk_11_white_noise.npy",
+        "adele_rolling_in_the_deep_chunk_11_pink_noise.npy",
+        "adele_rolling_in_the_deep_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -489,7 +621,19 @@
         "abba_dancing_queen_chunk_8_clean.npy",
         "abba_dancing_queen_chunk_8_white_noise.npy",
         "abba_dancing_queen_chunk_8_pink_noise.npy",
-        "abba_dancing_queen_chunk_8_pitch_shift.npy"
+        "abba_dancing_queen_chunk_8_pitch_shift.npy",
+        "abba_dancing_queen_chunk_9_clean.npy",
+        "abba_dancing_queen_chunk_9_white_noise.npy",
+        "abba_dancing_queen_chunk_9_pink_noise.npy",
+        "abba_dancing_queen_chunk_9_pitch_shift.npy",
+        "abba_dancing_queen_chunk_10_clean.npy",
+        "abba_dancing_queen_chunk_10_white_noise.npy",
+        "abba_dancing_queen_chunk_10_pink_noise.npy",
+        "abba_dancing_queen_chunk_10_pitch_shift.npy",
+        "abba_dancing_queen_chunk_11_clean.npy",
+        "abba_dancing_queen_chunk_11_white_noise.npy",
+        "abba_dancing_queen_chunk_11_pink_noise.npy",
+        "abba_dancing_queen_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -530,7 +674,19 @@
         "banda_ms_el_color_de_tus_ojos_chunk_8_clean.npy",
         "banda_ms_el_color_de_tus_ojos_chunk_8_white_noise.npy",
         "banda_ms_el_color_de_tus_ojos_chunk_8_pink_noise.npy",
-        "banda_ms_el_color_de_tus_ojos_chunk_8_pitch_shift.npy"
+        "banda_ms_el_color_de_tus_ojos_chunk_8_pitch_shift.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_9_clean.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_9_white_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_9_pink_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_9_pitch_shift.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_10_clean.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_10_white_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_10_pink_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_10_pitch_shift.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_11_clean.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_11_white_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_11_pink_noise.npy",
+        "banda_ms_el_color_de_tus_ojos_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -571,7 +727,19 @@
         "eminem_lose_yourself_chunk_8_clean.npy",
         "eminem_lose_yourself_chunk_8_white_noise.npy",
         "eminem_lose_yourself_chunk_8_pink_noise.npy",
-        "eminem_lose_yourself_chunk_8_pitch_shift.npy"
+        "eminem_lose_yourself_chunk_8_pitch_shift.npy",
+        "eminem_lose_yourself_chunk_9_clean.npy",
+        "eminem_lose_yourself_chunk_9_white_noise.npy",
+        "eminem_lose_yourself_chunk_9_pink_noise.npy",
+        "eminem_lose_yourself_chunk_9_pitch_shift.npy",
+        "eminem_lose_yourself_chunk_10_clean.npy",
+        "eminem_lose_yourself_chunk_10_white_noise.npy",
+        "eminem_lose_yourself_chunk_10_pink_noise.npy",
+        "eminem_lose_yourself_chunk_10_pitch_shift.npy",
+        "eminem_lose_yourself_chunk_11_clean.npy",
+        "eminem_lose_yourself_chunk_11_white_noise.npy",
+        "eminem_lose_yourself_chunk_11_pink_noise.npy",
+        "eminem_lose_yourself_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -653,7 +821,19 @@
         "kendrick_lamar_humble_chunk_8_clean.npy",
         "kendrick_lamar_humble_chunk_8_white_noise.npy",
         "kendrick_lamar_humble_chunk_8_pink_noise.npy",
-        "kendrick_lamar_humble_chunk_8_pitch_shift.npy"
+        "kendrick_lamar_humble_chunk_8_pitch_shift.npy",
+        "kendrick_lamar_humble_chunk_9_clean.npy",
+        "kendrick_lamar_humble_chunk_9_white_noise.npy",
+        "kendrick_lamar_humble_chunk_9_pink_noise.npy",
+        "kendrick_lamar_humble_chunk_9_pitch_shift.npy",
+        "kendrick_lamar_humble_chunk_10_clean.npy",
+        "kendrick_lamar_humble_chunk_10_white_noise.npy",
+        "kendrick_lamar_humble_chunk_10_pink_noise.npy",
+        "kendrick_lamar_humble_chunk_10_pitch_shift.npy",
+        "kendrick_lamar_humble_chunk_11_clean.npy",
+        "kendrick_lamar_humble_chunk_11_white_noise.npy",
+        "kendrick_lamar_humble_chunk_11_pink_noise.npy",
+        "kendrick_lamar_humble_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -694,7 +874,19 @@
         "dua_lipa_dont_start_now_chunk_8_clean.npy",
         "dua_lipa_dont_start_now_chunk_8_white_noise.npy",
         "dua_lipa_dont_start_now_chunk_8_pink_noise.npy",
-        "dua_lipa_dont_start_now_chunk_8_pitch_shift.npy"
+        "dua_lipa_dont_start_now_chunk_8_pitch_shift.npy",
+        "dua_lipa_dont_start_now_chunk_9_clean.npy",
+        "dua_lipa_dont_start_now_chunk_9_white_noise.npy",
+        "dua_lipa_dont_start_now_chunk_9_pink_noise.npy",
+        "dua_lipa_dont_start_now_chunk_9_pitch_shift.npy",
+        "dua_lipa_dont_start_now_chunk_10_clean.npy",
+        "dua_lipa_dont_start_now_chunk_10_white_noise.npy",
+        "dua_lipa_dont_start_now_chunk_10_pink_noise.npy",
+        "dua_lipa_dont_start_now_chunk_10_pitch_shift.npy",
+        "dua_lipa_dont_start_now_chunk_11_clean.npy",
+        "dua_lipa_dont_start_now_chunk_11_white_noise.npy",
+        "dua_lipa_dont_start_now_chunk_11_pink_noise.npy",
+        "dua_lipa_dont_start_now_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -735,7 +927,15 @@
         "50_cent_in_da_club_chunk_8_clean.npy",
         "50_cent_in_da_club_chunk_8_white_noise.npy",
         "50_cent_in_da_club_chunk_8_pink_noise.npy",
-        "50_cent_in_da_club_chunk_8_pitch_shift.npy"
+        "50_cent_in_da_club_chunk_8_pitch_shift.npy",
+        "50_cent_in_da_club_chunk_9_clean.npy",
+        "50_cent_in_da_club_chunk_9_white_noise.npy",
+        "50_cent_in_da_club_chunk_9_pink_noise.npy",
+        "50_cent_in_da_club_chunk_9_pitch_shift.npy",
+        "50_cent_in_da_club_chunk_10_clean.npy",
+        "50_cent_in_da_club_chunk_10_white_noise.npy",
+        "50_cent_in_da_club_chunk_10_pink_noise.npy",
+        "50_cent_in_da_club_chunk_10_pitch_shift.npy"
       ]
     },
     {
@@ -776,7 +976,19 @@
         "christian_nodal_adios_amor_chunk_8_clean.npy",
         "christian_nodal_adios_amor_chunk_8_white_noise.npy",
         "christian_nodal_adios_amor_chunk_8_pink_noise.npy",
-        "christian_nodal_adios_amor_chunk_8_pitch_shift.npy"
+        "christian_nodal_adios_amor_chunk_8_pitch_shift.npy",
+        "christian_nodal_adios_amor_chunk_9_clean.npy",
+        "christian_nodal_adios_amor_chunk_9_white_noise.npy",
+        "christian_nodal_adios_amor_chunk_9_pink_noise.npy",
+        "christian_nodal_adios_amor_chunk_9_pitch_shift.npy",
+        "christian_nodal_adios_amor_chunk_10_clean.npy",
+        "christian_nodal_adios_amor_chunk_10_white_noise.npy",
+        "christian_nodal_adios_amor_chunk_10_pink_noise.npy",
+        "christian_nodal_adios_amor_chunk_10_pitch_shift.npy",
+        "christian_nodal_adios_amor_chunk_11_clean.npy",
+        "christian_nodal_adios_amor_chunk_11_white_noise.npy",
+        "christian_nodal_adios_amor_chunk_11_pink_noise.npy",
+        "christian_nodal_adios_amor_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -817,7 +1029,19 @@
         "the_prodigy_breathe_chunk_8_clean.npy",
         "the_prodigy_breathe_chunk_8_white_noise.npy",
         "the_prodigy_breathe_chunk_8_pink_noise.npy",
-        "the_prodigy_breathe_chunk_8_pitch_shift.npy"
+        "the_prodigy_breathe_chunk_8_pitch_shift.npy",
+        "the_prodigy_breathe_chunk_9_clean.npy",
+        "the_prodigy_breathe_chunk_9_white_noise.npy",
+        "the_prodigy_breathe_chunk_9_pink_noise.npy",
+        "the_prodigy_breathe_chunk_9_pitch_shift.npy",
+        "the_prodigy_breathe_chunk_10_clean.npy",
+        "the_prodigy_breathe_chunk_10_white_noise.npy",
+        "the_prodigy_breathe_chunk_10_pink_noise.npy",
+        "the_prodigy_breathe_chunk_10_pitch_shift.npy",
+        "the_prodigy_breathe_chunk_11_clean.npy",
+        "the_prodigy_breathe_chunk_11_white_noise.npy",
+        "the_prodigy_breathe_chunk_11_pink_noise.npy",
+        "the_prodigy_breathe_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -858,7 +1082,19 @@
         "daddy_yankee_gasolina_chunk_8_clean.npy",
         "daddy_yankee_gasolina_chunk_8_white_noise.npy",
         "daddy_yankee_gasolina_chunk_8_pink_noise.npy",
-        "daddy_yankee_gasolina_chunk_8_pitch_shift.npy"
+        "daddy_yankee_gasolina_chunk_8_pitch_shift.npy",
+        "daddy_yankee_gasolina_chunk_9_clean.npy",
+        "daddy_yankee_gasolina_chunk_9_white_noise.npy",
+        "daddy_yankee_gasolina_chunk_9_pink_noise.npy",
+        "daddy_yankee_gasolina_chunk_9_pitch_shift.npy",
+        "daddy_yankee_gasolina_chunk_10_clean.npy",
+        "daddy_yankee_gasolina_chunk_10_white_noise.npy",
+        "daddy_yankee_gasolina_chunk_10_pink_noise.npy",
+        "daddy_yankee_gasolina_chunk_10_pitch_shift.npy",
+        "daddy_yankee_gasolina_chunk_11_clean.npy",
+        "daddy_yankee_gasolina_chunk_11_white_noise.npy",
+        "daddy_yankee_gasolina_chunk_11_pink_noise.npy",
+        "daddy_yankee_gasolina_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -899,7 +1135,19 @@
         "the_rolling_stones_paint_it_black_chunk_8_clean.npy",
         "the_rolling_stones_paint_it_black_chunk_8_white_noise.npy",
         "the_rolling_stones_paint_it_black_chunk_8_pink_noise.npy",
-        "the_rolling_stones_paint_it_black_chunk_8_pitch_shift.npy"
+        "the_rolling_stones_paint_it_black_chunk_8_pitch_shift.npy",
+        "the_rolling_stones_paint_it_black_chunk_9_clean.npy",
+        "the_rolling_stones_paint_it_black_chunk_9_white_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_9_pink_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_9_pitch_shift.npy",
+        "the_rolling_stones_paint_it_black_chunk_10_clean.npy",
+        "the_rolling_stones_paint_it_black_chunk_10_white_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_10_pink_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_10_pitch_shift.npy",
+        "the_rolling_stones_paint_it_black_chunk_11_clean.npy",
+        "the_rolling_stones_paint_it_black_chunk_11_white_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_11_pink_noise.npy",
+        "the_rolling_stones_paint_it_black_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -940,7 +1188,19 @@
         "deadmau5_monophobia_chunk_8_clean.npy",
         "deadmau5_monophobia_chunk_8_white_noise.npy",
         "deadmau5_monophobia_chunk_8_pink_noise.npy",
-        "deadmau5_monophobia_chunk_8_pitch_shift.npy"
+        "deadmau5_monophobia_chunk_8_pitch_shift.npy",
+        "deadmau5_monophobia_chunk_9_clean.npy",
+        "deadmau5_monophobia_chunk_9_white_noise.npy",
+        "deadmau5_monophobia_chunk_9_pink_noise.npy",
+        "deadmau5_monophobia_chunk_9_pitch_shift.npy",
+        "deadmau5_monophobia_chunk_10_clean.npy",
+        "deadmau5_monophobia_chunk_10_white_noise.npy",
+        "deadmau5_monophobia_chunk_10_pink_noise.npy",
+        "deadmau5_monophobia_chunk_10_pitch_shift.npy",
+        "deadmau5_monophobia_chunk_11_clean.npy",
+        "deadmau5_monophobia_chunk_11_white_noise.npy",
+        "deadmau5_monophobia_chunk_11_pink_noise.npy",
+        "deadmau5_monophobia_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -981,7 +1241,19 @@
         "vivaldi_four_seasons_spring_chunk_8_clean.npy",
         "vivaldi_four_seasons_spring_chunk_8_white_noise.npy",
         "vivaldi_four_seasons_spring_chunk_8_pink_noise.npy",
-        "vivaldi_four_seasons_spring_chunk_8_pitch_shift.npy"
+        "vivaldi_four_seasons_spring_chunk_8_pitch_shift.npy",
+        "vivaldi_four_seasons_spring_chunk_9_clean.npy",
+        "vivaldi_four_seasons_spring_chunk_9_white_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_9_pink_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_9_pitch_shift.npy",
+        "vivaldi_four_seasons_spring_chunk_10_clean.npy",
+        "vivaldi_four_seasons_spring_chunk_10_white_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_10_pink_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_10_pitch_shift.npy",
+        "vivaldi_four_seasons_spring_chunk_11_clean.npy",
+        "vivaldi_four_seasons_spring_chunk_11_white_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_11_pink_noise.npy",
+        "vivaldi_four_seasons_spring_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1022,7 +1294,19 @@
         "nirvana_smells_like_teen_spirit_chunk_8_clean.npy",
         "nirvana_smells_like_teen_spirit_chunk_8_white_noise.npy",
         "nirvana_smells_like_teen_spirit_chunk_8_pink_noise.npy",
-        "nirvana_smells_like_teen_spirit_chunk_8_pitch_shift.npy"
+        "nirvana_smells_like_teen_spirit_chunk_8_pitch_shift.npy",
+        "nirvana_smells_like_teen_spirit_chunk_9_clean.npy",
+        "nirvana_smells_like_teen_spirit_chunk_9_white_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_9_pink_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_9_pitch_shift.npy",
+        "nirvana_smells_like_teen_spirit_chunk_10_clean.npy",
+        "nirvana_smells_like_teen_spirit_chunk_10_white_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_10_pink_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_10_pitch_shift.npy",
+        "nirvana_smells_like_teen_spirit_chunk_11_clean.npy",
+        "nirvana_smells_like_teen_spirit_chunk_11_white_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_11_pink_noise.npy",
+        "nirvana_smells_like_teen_spirit_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1063,7 +1347,19 @@
         "karol_g_tusa_chunk_8_clean.npy",
         "karol_g_tusa_chunk_8_white_noise.npy",
         "karol_g_tusa_chunk_8_pink_noise.npy",
-        "karol_g_tusa_chunk_8_pitch_shift.npy"
+        "karol_g_tusa_chunk_8_pitch_shift.npy",
+        "karol_g_tusa_chunk_9_clean.npy",
+        "karol_g_tusa_chunk_9_white_noise.npy",
+        "karol_g_tusa_chunk_9_pink_noise.npy",
+        "karol_g_tusa_chunk_9_pitch_shift.npy",
+        "karol_g_tusa_chunk_10_clean.npy",
+        "karol_g_tusa_chunk_10_white_noise.npy",
+        "karol_g_tusa_chunk_10_pink_noise.npy",
+        "karol_g_tusa_chunk_10_pitch_shift.npy",
+        "karol_g_tusa_chunk_11_clean.npy",
+        "karol_g_tusa_chunk_11_white_noise.npy",
+        "karol_g_tusa_chunk_11_pink_noise.npy",
+        "karol_g_tusa_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1104,7 +1400,19 @@
         "bad_bunny_titi_me_pregunto_chunk_8_clean.npy",
         "bad_bunny_titi_me_pregunto_chunk_8_white_noise.npy",
         "bad_bunny_titi_me_pregunto_chunk_8_pink_noise.npy",
-        "bad_bunny_titi_me_pregunto_chunk_8_pitch_shift.npy"
+        "bad_bunny_titi_me_pregunto_chunk_8_pitch_shift.npy",
+        "bad_bunny_titi_me_pregunto_chunk_9_clean.npy",
+        "bad_bunny_titi_me_pregunto_chunk_9_white_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_9_pink_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_9_pitch_shift.npy",
+        "bad_bunny_titi_me_pregunto_chunk_10_clean.npy",
+        "bad_bunny_titi_me_pregunto_chunk_10_white_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_10_pink_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_10_pitch_shift.npy",
+        "bad_bunny_titi_me_pregunto_chunk_11_clean.npy",
+        "bad_bunny_titi_me_pregunto_chunk_11_white_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_11_pink_noise.npy",
+        "bad_bunny_titi_me_pregunto_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1145,7 +1453,19 @@
         "drake_gods_plan_chunk_8_clean.npy",
         "drake_gods_plan_chunk_8_white_noise.npy",
         "drake_gods_plan_chunk_8_pink_noise.npy",
-        "drake_gods_plan_chunk_8_pitch_shift.npy"
+        "drake_gods_plan_chunk_8_pitch_shift.npy",
+        "drake_gods_plan_chunk_9_clean.npy",
+        "drake_gods_plan_chunk_9_white_noise.npy",
+        "drake_gods_plan_chunk_9_pink_noise.npy",
+        "drake_gods_plan_chunk_9_pitch_shift.npy",
+        "drake_gods_plan_chunk_10_clean.npy",
+        "drake_gods_plan_chunk_10_white_noise.npy",
+        "drake_gods_plan_chunk_10_pink_noise.npy",
+        "drake_gods_plan_chunk_10_pitch_shift.npy",
+        "drake_gods_plan_chunk_11_clean.npy",
+        "drake_gods_plan_chunk_11_white_noise.npy",
+        "drake_gods_plan_chunk_11_pink_noise.npy",
+        "drake_gods_plan_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1186,7 +1506,19 @@
         "ac_dc_back_in_black_chunk_8_clean.npy",
         "ac_dc_back_in_black_chunk_8_white_noise.npy",
         "ac_dc_back_in_black_chunk_8_pink_noise.npy",
-        "ac_dc_back_in_black_chunk_8_pitch_shift.npy"
+        "ac_dc_back_in_black_chunk_8_pitch_shift.npy",
+        "ac_dc_back_in_black_chunk_9_clean.npy",
+        "ac_dc_back_in_black_chunk_9_white_noise.npy",
+        "ac_dc_back_in_black_chunk_9_pink_noise.npy",
+        "ac_dc_back_in_black_chunk_9_pitch_shift.npy",
+        "ac_dc_back_in_black_chunk_10_clean.npy",
+        "ac_dc_back_in_black_chunk_10_white_noise.npy",
+        "ac_dc_back_in_black_chunk_10_pink_noise.npy",
+        "ac_dc_back_in_black_chunk_10_pitch_shift.npy",
+        "ac_dc_back_in_black_chunk_11_clean.npy",
+        "ac_dc_back_in_black_chunk_11_white_noise.npy",
+        "ac_dc_back_in_black_chunk_11_pink_noise.npy",
+        "ac_dc_back_in_black_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1227,7 +1559,19 @@
         "calvin_harris_summer_chunk_8_clean.npy",
         "calvin_harris_summer_chunk_8_white_noise.npy",
         "calvin_harris_summer_chunk_8_pink_noise.npy",
-        "calvin_harris_summer_chunk_8_pitch_shift.npy"
+        "calvin_harris_summer_chunk_8_pitch_shift.npy",
+        "calvin_harris_summer_chunk_9_clean.npy",
+        "calvin_harris_summer_chunk_9_white_noise.npy",
+        "calvin_harris_summer_chunk_9_pink_noise.npy",
+        "calvin_harris_summer_chunk_9_pitch_shift.npy",
+        "calvin_harris_summer_chunk_10_clean.npy",
+        "calvin_harris_summer_chunk_10_white_noise.npy",
+        "calvin_harris_summer_chunk_10_pink_noise.npy",
+        "calvin_harris_summer_chunk_10_pitch_shift.npy",
+        "calvin_harris_summer_chunk_11_clean.npy",
+        "calvin_harris_summer_chunk_11_white_noise.npy",
+        "calvin_harris_summer_chunk_11_pink_noise.npy",
+        "calvin_harris_summer_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1268,7 +1612,19 @@
         "the_strokes_reptilia_chunk_8_clean.npy",
         "the_strokes_reptilia_chunk_8_white_noise.npy",
         "the_strokes_reptilia_chunk_8_pink_noise.npy",
-        "the_strokes_reptilia_chunk_8_pitch_shift.npy"
+        "the_strokes_reptilia_chunk_8_pitch_shift.npy",
+        "the_strokes_reptilia_chunk_9_clean.npy",
+        "the_strokes_reptilia_chunk_9_white_noise.npy",
+        "the_strokes_reptilia_chunk_9_pink_noise.npy",
+        "the_strokes_reptilia_chunk_9_pitch_shift.npy",
+        "the_strokes_reptilia_chunk_10_clean.npy",
+        "the_strokes_reptilia_chunk_10_white_noise.npy",
+        "the_strokes_reptilia_chunk_10_pink_noise.npy",
+        "the_strokes_reptilia_chunk_10_pitch_shift.npy",
+        "the_strokes_reptilia_chunk_11_clean.npy",
+        "the_strokes_reptilia_chunk_11_white_noise.npy",
+        "the_strokes_reptilia_chunk_11_pink_noise.npy",
+        "the_strokes_reptilia_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1309,7 +1665,19 @@
         "beethoven_symphony_no5_chunk_8_clean.npy",
         "beethoven_symphony_no5_chunk_8_white_noise.npy",
         "beethoven_symphony_no5_chunk_8_pink_noise.npy",
-        "beethoven_symphony_no5_chunk_8_pitch_shift.npy"
+        "beethoven_symphony_no5_chunk_8_pitch_shift.npy",
+        "beethoven_symphony_no5_chunk_9_clean.npy",
+        "beethoven_symphony_no5_chunk_9_white_noise.npy",
+        "beethoven_symphony_no5_chunk_9_pink_noise.npy",
+        "beethoven_symphony_no5_chunk_9_pitch_shift.npy",
+        "beethoven_symphony_no5_chunk_10_clean.npy",
+        "beethoven_symphony_no5_chunk_10_white_noise.npy",
+        "beethoven_symphony_no5_chunk_10_pink_noise.npy",
+        "beethoven_symphony_no5_chunk_10_pitch_shift.npy",
+        "beethoven_symphony_no5_chunk_11_clean.npy",
+        "beethoven_symphony_no5_chunk_11_white_noise.npy",
+        "beethoven_symphony_no5_chunk_11_pink_noise.npy",
+        "beethoven_symphony_no5_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1350,7 +1718,19 @@
         "arctic_monkeys_do_i_wanna_know_chunk_8_clean.npy",
         "arctic_monkeys_do_i_wanna_know_chunk_8_white_noise.npy",
         "arctic_monkeys_do_i_wanna_know_chunk_8_pink_noise.npy",
-        "arctic_monkeys_do_i_wanna_know_chunk_8_pitch_shift.npy"
+        "arctic_monkeys_do_i_wanna_know_chunk_8_pitch_shift.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_9_clean.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_9_white_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_9_pink_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_9_pitch_shift.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_10_clean.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_10_white_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_10_pink_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_10_pitch_shift.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_11_clean.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_11_white_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_11_pink_noise.npy",
+        "arctic_monkeys_do_i_wanna_know_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1391,7 +1771,19 @@
         "ed_sheeran_shape_of_you_chunk_8_clean.npy",
         "ed_sheeran_shape_of_you_chunk_8_white_noise.npy",
         "ed_sheeran_shape_of_you_chunk_8_pink_noise.npy",
-        "ed_sheeran_shape_of_you_chunk_8_pitch_shift.npy"
+        "ed_sheeran_shape_of_you_chunk_8_pitch_shift.npy",
+        "ed_sheeran_shape_of_you_chunk_9_clean.npy",
+        "ed_sheeran_shape_of_you_chunk_9_white_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_9_pink_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_9_pitch_shift.npy",
+        "ed_sheeran_shape_of_you_chunk_10_clean.npy",
+        "ed_sheeran_shape_of_you_chunk_10_white_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_10_pink_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_10_pitch_shift.npy",
+        "ed_sheeran_shape_of_you_chunk_11_clean.npy",
+        "ed_sheeran_shape_of_you_chunk_11_white_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_11_pink_noise.npy",
+        "ed_sheeran_shape_of_you_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1432,7 +1824,19 @@
         "rammstein_du_hast_chunk_8_clean.npy",
         "rammstein_du_hast_chunk_8_white_noise.npy",
         "rammstein_du_hast_chunk_8_pink_noise.npy",
-        "rammstein_du_hast_chunk_8_pitch_shift.npy"
+        "rammstein_du_hast_chunk_8_pitch_shift.npy",
+        "rammstein_du_hast_chunk_9_clean.npy",
+        "rammstein_du_hast_chunk_9_white_noise.npy",
+        "rammstein_du_hast_chunk_9_pink_noise.npy",
+        "rammstein_du_hast_chunk_9_pitch_shift.npy",
+        "rammstein_du_hast_chunk_10_clean.npy",
+        "rammstein_du_hast_chunk_10_white_noise.npy",
+        "rammstein_du_hast_chunk_10_pink_noise.npy",
+        "rammstein_du_hast_chunk_10_pitch_shift.npy",
+        "rammstein_du_hast_chunk_11_clean.npy",
+        "rammstein_du_hast_chunk_11_white_noise.npy",
+        "rammstein_du_hast_chunk_11_pink_noise.npy",
+        "rammstein_du_hast_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1473,7 +1877,19 @@
         "nina_simone_feeling_good_chunk_8_clean.npy",
         "nina_simone_feeling_good_chunk_8_white_noise.npy",
         "nina_simone_feeling_good_chunk_8_pink_noise.npy",
-        "nina_simone_feeling_good_chunk_8_pitch_shift.npy"
+        "nina_simone_feeling_good_chunk_8_pitch_shift.npy",
+        "nina_simone_feeling_good_chunk_9_clean.npy",
+        "nina_simone_feeling_good_chunk_9_white_noise.npy",
+        "nina_simone_feeling_good_chunk_9_pink_noise.npy",
+        "nina_simone_feeling_good_chunk_9_pitch_shift.npy",
+        "nina_simone_feeling_good_chunk_10_clean.npy",
+        "nina_simone_feeling_good_chunk_10_white_noise.npy",
+        "nina_simone_feeling_good_chunk_10_pink_noise.npy",
+        "nina_simone_feeling_good_chunk_10_pitch_shift.npy",
+        "nina_simone_feeling_good_chunk_11_clean.npy",
+        "nina_simone_feeling_good_chunk_11_white_noise.npy",
+        "nina_simone_feeling_good_chunk_11_pink_noise.npy",
+        "nina_simone_feeling_good_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1514,7 +1930,19 @@
         "miles_davis_so_what_chunk_8_clean.npy",
         "miles_davis_so_what_chunk_8_white_noise.npy",
         "miles_davis_so_what_chunk_8_pink_noise.npy",
-        "miles_davis_so_what_chunk_8_pitch_shift.npy"
+        "miles_davis_so_what_chunk_8_pitch_shift.npy",
+        "miles_davis_so_what_chunk_9_clean.npy",
+        "miles_davis_so_what_chunk_9_white_noise.npy",
+        "miles_davis_so_what_chunk_9_pink_noise.npy",
+        "miles_davis_so_what_chunk_9_pitch_shift.npy",
+        "miles_davis_so_what_chunk_10_clean.npy",
+        "miles_davis_so_what_chunk_10_white_noise.npy",
+        "miles_davis_so_what_chunk_10_pink_noise.npy",
+        "miles_davis_so_what_chunk_10_pitch_shift.npy",
+        "miles_davis_so_what_chunk_11_clean.npy",
+        "miles_davis_so_what_chunk_11_white_noise.npy",
+        "miles_davis_so_what_chunk_11_pink_noise.npy",
+        "miles_davis_so_what_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1555,7 +1983,19 @@
         "john_coltrane_my_favorite_things_chunk_8_clean.npy",
         "john_coltrane_my_favorite_things_chunk_8_white_noise.npy",
         "john_coltrane_my_favorite_things_chunk_8_pink_noise.npy",
-        "john_coltrane_my_favorite_things_chunk_8_pitch_shift.npy"
+        "john_coltrane_my_favorite_things_chunk_8_pitch_shift.npy",
+        "john_coltrane_my_favorite_things_chunk_9_clean.npy",
+        "john_coltrane_my_favorite_things_chunk_9_white_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_9_pink_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_9_pitch_shift.npy",
+        "john_coltrane_my_favorite_things_chunk_10_clean.npy",
+        "john_coltrane_my_favorite_things_chunk_10_white_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_10_pink_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_10_pitch_shift.npy",
+        "john_coltrane_my_favorite_things_chunk_11_clean.npy",
+        "john_coltrane_my_favorite_things_chunk_11_white_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_11_pink_noise.npy",
+        "john_coltrane_my_favorite_things_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1596,7 +2036,11 @@
         "tchaikovsky_swan_lake_chunk_8_clean.npy",
         "tchaikovsky_swan_lake_chunk_8_white_noise.npy",
         "tchaikovsky_swan_lake_chunk_8_pink_noise.npy",
-        "tchaikovsky_swan_lake_chunk_8_pitch_shift.npy"
+        "tchaikovsky_swan_lake_chunk_8_pitch_shift.npy",
+        "tchaikovsky_swan_lake_chunk_9_clean.npy",
+        "tchaikovsky_swan_lake_chunk_9_white_noise.npy",
+        "tchaikovsky_swan_lake_chunk_9_pink_noise.npy",
+        "tchaikovsky_swan_lake_chunk_9_pitch_shift.npy"
       ]
     },
     {
@@ -1637,7 +2081,19 @@
         "don_omar_danza_kuduro_chunk_8_clean.npy",
         "don_omar_danza_kuduro_chunk_8_white_noise.npy",
         "don_omar_danza_kuduro_chunk_8_pink_noise.npy",
-        "don_omar_danza_kuduro_chunk_8_pitch_shift.npy"
+        "don_omar_danza_kuduro_chunk_8_pitch_shift.npy",
+        "don_omar_danza_kuduro_chunk_9_clean.npy",
+        "don_omar_danza_kuduro_chunk_9_white_noise.npy",
+        "don_omar_danza_kuduro_chunk_9_pink_noise.npy",
+        "don_omar_danza_kuduro_chunk_9_pitch_shift.npy",
+        "don_omar_danza_kuduro_chunk_10_clean.npy",
+        "don_omar_danza_kuduro_chunk_10_white_noise.npy",
+        "don_omar_danza_kuduro_chunk_10_pink_noise.npy",
+        "don_omar_danza_kuduro_chunk_10_pitch_shift.npy",
+        "don_omar_danza_kuduro_chunk_11_clean.npy",
+        "don_omar_danza_kuduro_chunk_11_white_noise.npy",
+        "don_omar_danza_kuduro_chunk_11_pink_noise.npy",
+        "don_omar_danza_kuduro_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1678,7 +2134,19 @@
         "avicii_levels_chunk_8_clean.npy",
         "avicii_levels_chunk_8_white_noise.npy",
         "avicii_levels_chunk_8_pink_noise.npy",
-        "avicii_levels_chunk_8_pitch_shift.npy"
+        "avicii_levels_chunk_8_pitch_shift.npy",
+        "avicii_levels_chunk_9_clean.npy",
+        "avicii_levels_chunk_9_white_noise.npy",
+        "avicii_levels_chunk_9_pink_noise.npy",
+        "avicii_levels_chunk_9_pitch_shift.npy",
+        "avicii_levels_chunk_10_clean.npy",
+        "avicii_levels_chunk_10_white_noise.npy",
+        "avicii_levels_chunk_10_pink_noise.npy",
+        "avicii_levels_chunk_10_pitch_shift.npy",
+        "avicii_levels_chunk_11_clean.npy",
+        "avicii_levels_chunk_11_white_noise.npy",
+        "avicii_levels_chunk_11_pink_noise.npy",
+        "avicii_levels_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1719,7 +2187,19 @@
         "travis_scott_sicko_mode_chunk_8_clean.npy",
         "travis_scott_sicko_mode_chunk_8_white_noise.npy",
         "travis_scott_sicko_mode_chunk_8_pink_noise.npy",
-        "travis_scott_sicko_mode_chunk_8_pitch_shift.npy"
+        "travis_scott_sicko_mode_chunk_8_pitch_shift.npy",
+        "travis_scott_sicko_mode_chunk_9_clean.npy",
+        "travis_scott_sicko_mode_chunk_9_white_noise.npy",
+        "travis_scott_sicko_mode_chunk_9_pink_noise.npy",
+        "travis_scott_sicko_mode_chunk_9_pitch_shift.npy",
+        "travis_scott_sicko_mode_chunk_10_clean.npy",
+        "travis_scott_sicko_mode_chunk_10_white_noise.npy",
+        "travis_scott_sicko_mode_chunk_10_pink_noise.npy",
+        "travis_scott_sicko_mode_chunk_10_pitch_shift.npy",
+        "travis_scott_sicko_mode_chunk_11_clean.npy",
+        "travis_scott_sicko_mode_chunk_11_white_noise.npy",
+        "travis_scott_sicko_mode_chunk_11_pink_noise.npy",
+        "travis_scott_sicko_mode_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1760,7 +2240,19 @@
         "guns_n_roses_sweet_child_o_mine_chunk_8_clean.npy",
         "guns_n_roses_sweet_child_o_mine_chunk_8_white_noise.npy",
         "guns_n_roses_sweet_child_o_mine_chunk_8_pink_noise.npy",
-        "guns_n_roses_sweet_child_o_mine_chunk_8_pitch_shift.npy"
+        "guns_n_roses_sweet_child_o_mine_chunk_8_pitch_shift.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_9_clean.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_9_white_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_9_pink_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_9_pitch_shift.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_10_clean.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_10_white_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_10_pink_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_10_pitch_shift.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_11_clean.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_11_white_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_11_pink_noise.npy",
+        "guns_n_roses_sweet_child_o_mine_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1801,7 +2293,19 @@
         "mozart_eine_kleine_nachtmusik_chunk_8_clean.npy",
         "mozart_eine_kleine_nachtmusik_chunk_8_white_noise.npy",
         "mozart_eine_kleine_nachtmusik_chunk_8_pink_noise.npy",
-        "mozart_eine_kleine_nachtmusik_chunk_8_pitch_shift.npy"
+        "mozart_eine_kleine_nachtmusik_chunk_8_pitch_shift.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_9_clean.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_9_white_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_9_pink_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_9_pitch_shift.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_10_clean.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_10_white_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_10_pink_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_10_pitch_shift.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_11_clean.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_11_white_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_11_pink_noise.npy",
+        "mozart_eine_kleine_nachtmusik_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1842,7 +2346,19 @@
         "bob_marley_no_woman_no_cry_chunk_8_clean.npy",
         "bob_marley_no_woman_no_cry_chunk_8_white_noise.npy",
         "bob_marley_no_woman_no_cry_chunk_8_pink_noise.npy",
-        "bob_marley_no_woman_no_cry_chunk_8_pitch_shift.npy"
+        "bob_marley_no_woman_no_cry_chunk_8_pitch_shift.npy",
+        "bob_marley_no_woman_no_cry_chunk_9_clean.npy",
+        "bob_marley_no_woman_no_cry_chunk_9_white_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_9_pink_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_9_pitch_shift.npy",
+        "bob_marley_no_woman_no_cry_chunk_10_clean.npy",
+        "bob_marley_no_woman_no_cry_chunk_10_white_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_10_pink_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_10_pitch_shift.npy",
+        "bob_marley_no_woman_no_cry_chunk_11_clean.npy",
+        "bob_marley_no_woman_no_cry_chunk_11_white_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_11_pink_noise.npy",
+        "bob_marley_no_woman_no_cry_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1883,7 +2399,19 @@
         "dave_brubeck_take_five_chunk_8_clean.npy",
         "dave_brubeck_take_five_chunk_8_white_noise.npy",
         "dave_brubeck_take_five_chunk_8_pink_noise.npy",
-        "dave_brubeck_take_five_chunk_8_pitch_shift.npy"
+        "dave_brubeck_take_five_chunk_8_pitch_shift.npy",
+        "dave_brubeck_take_five_chunk_9_clean.npy",
+        "dave_brubeck_take_five_chunk_9_white_noise.npy",
+        "dave_brubeck_take_five_chunk_9_pink_noise.npy",
+        "dave_brubeck_take_five_chunk_9_pitch_shift.npy",
+        "dave_brubeck_take_five_chunk_10_clean.npy",
+        "dave_brubeck_take_five_chunk_10_white_noise.npy",
+        "dave_brubeck_take_five_chunk_10_pink_noise.npy",
+        "dave_brubeck_take_five_chunk_10_pitch_shift.npy",
+        "dave_brubeck_take_five_chunk_11_clean.npy",
+        "dave_brubeck_take_five_chunk_11_white_noise.npy",
+        "dave_brubeck_take_five_chunk_11_pink_noise.npy",
+        "dave_brubeck_take_five_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1924,7 +2452,19 @@
         "j_balvin_mi_gente_chunk_8_clean.npy",
         "j_balvin_mi_gente_chunk_8_white_noise.npy",
         "j_balvin_mi_gente_chunk_8_pink_noise.npy",
-        "j_balvin_mi_gente_chunk_8_pitch_shift.npy"
+        "j_balvin_mi_gente_chunk_8_pitch_shift.npy",
+        "j_balvin_mi_gente_chunk_9_clean.npy",
+        "j_balvin_mi_gente_chunk_9_white_noise.npy",
+        "j_balvin_mi_gente_chunk_9_pink_noise.npy",
+        "j_balvin_mi_gente_chunk_9_pitch_shift.npy",
+        "j_balvin_mi_gente_chunk_10_clean.npy",
+        "j_balvin_mi_gente_chunk_10_white_noise.npy",
+        "j_balvin_mi_gente_chunk_10_pink_noise.npy",
+        "j_balvin_mi_gente_chunk_10_pitch_shift.npy",
+        "j_balvin_mi_gente_chunk_11_clean.npy",
+        "j_balvin_mi_gente_chunk_11_white_noise.npy",
+        "j_balvin_mi_gente_chunk_11_pink_noise.npy",
+        "j_balvin_mi_gente_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -1965,7 +2505,19 @@
         "tame_impala_the_less_i_know_the_better_chunk_8_clean.npy",
         "tame_impala_the_less_i_know_the_better_chunk_8_white_noise.npy",
         "tame_impala_the_less_i_know_the_better_chunk_8_pink_noise.npy",
-        "tame_impala_the_less_i_know_the_better_chunk_8_pitch_shift.npy"
+        "tame_impala_the_less_i_know_the_better_chunk_8_pitch_shift.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_9_clean.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_9_white_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_9_pink_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_9_pitch_shift.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_10_clean.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_10_white_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_10_pink_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_10_pitch_shift.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_11_clean.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_11_white_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_11_pink_noise.npy",
+        "tame_impala_the_less_i_know_the_better_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -2006,7 +2558,19 @@
         "pedro_infante_cien_anos_chunk_8_clean.npy",
         "pedro_infante_cien_anos_chunk_8_white_noise.npy",
         "pedro_infante_cien_anos_chunk_8_pink_noise.npy",
-        "pedro_infante_cien_anos_chunk_8_pitch_shift.npy"
+        "pedro_infante_cien_anos_chunk_8_pitch_shift.npy",
+        "pedro_infante_cien_anos_chunk_9_clean.npy",
+        "pedro_infante_cien_anos_chunk_9_white_noise.npy",
+        "pedro_infante_cien_anos_chunk_9_pink_noise.npy",
+        "pedro_infante_cien_anos_chunk_9_pitch_shift.npy",
+        "pedro_infante_cien_anos_chunk_10_clean.npy",
+        "pedro_infante_cien_anos_chunk_10_white_noise.npy",
+        "pedro_infante_cien_anos_chunk_10_pink_noise.npy",
+        "pedro_infante_cien_anos_chunk_10_pitch_shift.npy",
+        "pedro_infante_cien_anos_chunk_11_clean.npy",
+        "pedro_infante_cien_anos_chunk_11_white_noise.npy",
+        "pedro_infante_cien_anos_chunk_11_pink_noise.npy",
+        "pedro_infante_cien_anos_chunk_11_pitch_shift.npy"
       ]
     },
     {
@@ -2047,7 +2611,19 @@
         "queen_bohemian_rhapsody_chunk_8_clean.npy",
         "queen_bohemian_rhapsody_chunk_8_white_noise.npy",
         "queen_bohemian_rhapsody_chunk_8_pink_noise.npy",
-        "queen_bohemian_rhapsody_chunk_8_pitch_shift.npy"
+        "queen_bohemian_rhapsody_chunk_8_pitch_shift.npy",
+        "queen_bohemian_rhapsody_chunk_9_clean.npy",
+        "queen_bohemian_rhapsody_chunk_9_white_noise.npy",
+        "queen_bohemian_rhapsody_chunk_9_pink_noise.npy",
+        "queen_bohemian_rhapsody_chunk_9_pitch_shift.npy",
+        "queen_bohemian_rhapsody_chunk_10_clean.npy",
+        "queen_bohemian_rhapsody_chunk_10_white_noise.npy",
+        "queen_bohemian_rhapsody_chunk_10_pink_noise.npy",
+        "queen_bohemian_rhapsody_chunk_10_pitch_shift.npy",
+        "queen_bohemian_rhapsody_chunk_11_clean.npy",
+        "queen_bohemian_rhapsody_chunk_11_white_noise.npy",
+        "queen_bohemian_rhapsody_chunk_11_pink_noise.npy",
+        "queen_bohemian_rhapsody_chunk_11_pitch_shift.npy"
       ]
     }
   ],
@@ -2062,6 +2638,6 @@
       "pink_noise",
       "pitch_shift"
     ],
-    "max_chunks_per_song": 9
+    "max_chunks_per_song": 12
   }
 }

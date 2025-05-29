@@ -6,11 +6,16 @@ from torch.utils.data import Dataset
 from sklearn.preprocessing import LabelEncoder
 
 class MelSpectrogramDataset(Dataset):
-    def __init__(self, json_path):
-        with open(json_path, 'r') as f:
-            self.data = json.load(f)
+    def __init__(self, json_path=None, entries=None):
+        if entries is not None:
+            self.data = entries
+        elif json_path:
+            with open(json_path, 'r') as f:
+                self.data = json.load(f)
+        else:
+            raise ValueError("Debes proporcionar 'json_path' o 'entries'.")
 
-        self.paths = [item['path'] for item in self.data]
+        self.paths = [item['file'] for item in self.data]
         self.labels = [item['label'] for item in self.data]
 
         self.encoder = LabelEncoder()
