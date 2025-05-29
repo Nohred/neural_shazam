@@ -1,5 +1,7 @@
 data/processed/
 data/dataset.csv
 data/raw/
+data/covers
+
 *__pycache__*
 logs

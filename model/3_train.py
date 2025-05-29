@@ -5,12 +5,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 import os
 from cnn_model import create_model
+from dataset_create import create_dataset
 
 
 def load_and_prepare_data(dataset_path="data/dataset.csv"):
     """Load and prepare data for training"""
     print("Loading dataset...")
-    df = pd.read_csv(dataset_path)
+    # df = pd.read_csv(dataset_path)
+    df = create_dataset()
     
     # Get sample weights if they exist
     sample_weights = df['sample_weight'].values if 'sample_weight' in df.columns else None
